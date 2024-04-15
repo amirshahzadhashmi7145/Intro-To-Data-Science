@@ -11,6 +11,13 @@ Assignment 02 Task 4 Output:
 Assignment 02 Task 5 Output:
 ![image](https://github.com/amirshahzadhashmi7145/Intro-To-Data-Science/assets/150381267/9694ccc2-a7be-4024-a54c-190c9cefdf39)
 
+Assignment 03 Task 1 Output:
+![image](https://github.com/amirshahzadhashmi7145/Intro-To-Data-Science/assets/150381267/87ef267e-11de-49c9-aeb8-900c737d1469)
+Assignment 03 Task 2 Output:
+![image](https://github.com/amirshahzadhashmi7145/Intro-To-Data-Science/assets/150381267/295b5d16-8c28-4378-980f-e106d36cc74d)
+
+
+
 
 
 
